@@ -1,0 +1,10 @@
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.Form1.resources
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.Properties.Resources.resources
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.csproj.GenerateResource.cache
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\Visual Studio расположение\source\repos\Decorator\Decorator\obj\Debug\Decorator.pdb
